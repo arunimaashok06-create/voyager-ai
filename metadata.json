@@ -1,0 +1,8 @@
+{
+  "name": "Personalized Travel Itinerary Planner",
+  "description": "AI-powered personalized travel itinerary planner with smart day-by-day scheduling, budget breakdowns, interactive maps, and collaborative group planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
